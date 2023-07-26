@@ -1,5 +1,7 @@
 # BIOLOGY
 
+![Image Alt Text](/biology.png)
+
 ![Laravel Version](https://img.shields.io/badge/Laravel-9.x-red)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
