@@ -43,5 +43,5 @@ We welcome contributions from the community to enhance the functionality and usa
 BIOLOGY is open-source software licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or feedback, please reach out to us at your@email.com.
+For any inquiries, feedback, or collaboration opportunities, please don't hesitate to reach out to me at [swapin@laravelone.in](mailto:swapin@laravelone.in) with the subject "Biology". I am passionate about the intersection of biology and technology and would be thrilled to hear your thoughts on the BIOLOGY application. Whether you have suggestions for improvements, want to report an issue, or are interested in contributing to this exciting project, I am eager to connect with you. Together, we can advance bioinformatics research and foster innovation in the life sciences field. Looking forward to your valuable input!
 
